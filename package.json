@@ -1,6 +1,6 @@
 {
   "name": "lvstea",
-  "version": "1.2.5",
+  "version": "2.0.1",
   "description": "lvsteatesnet",
   "main": "index.js",
   "dependencies": {
@@ -48,5 +48,7 @@
   "bugs": {
     "url": "https://github.com/cryptoqueen97/kay-testnet/issues"
   },
-  "homepage": "https://github.com/cryptoqueen97/kay-testnet#readme"
+  "homepage": "https://github.com/cryptoqueen97/kay-testnet#readme",
+  "packageManager": "pnpm@9.1.0+sha512.67f5879916a9293e5cf059c23853d571beaf4f753c707f40cb22bed5fb1578c6aad3b6c4107ccb3ba0b35be003eb621a16471ac836c87beb53f9d54bb4612724",
+  "devDependencies": {}
 }

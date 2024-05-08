@@ -17,11 +17,11 @@
 
 •changelog
 
-* v1.1.2 
+* v1.2.5
 
-* v2.2.2-beta
+* v1.4.4-beta
 
-* v2.3.3 New
+* v2.0.1 New
 
 Version update to be continue ..
 HAPPY GOOD DAY 😃
