@@ -23,6 +23,8 @@
 
 * v2.0.1 New
 
+* v2.0.2 update
+
 Version update to be continue ..
 HAPPY GOOD DAY 😃
 
